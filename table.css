@@ -1,0 +1,57 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: #000;
+        }
+
+        h1 {
+            text-align: center;
+            color: brown;
+            font-size: 16px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            text-align: left;
+            color: brown;
+            font-size: 14px;
+            margin-top: 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        td {
+            padding: 4px 8px;
+            text-align: right;
+        }
+
+        td:first-child {
+            text-align: left;
+        }
+
+        .vendedor {
+            border-bottom: 1px solid brown;
+            font-weight: bold;
+            color: brown;
+        }
+
+        .cabecalho {
+            font-weight: bold;
+            color: brown;
+            text-align: center;
+        }
+
+        .total-vendedor {
+            font-weight: bold;
+            color: brown;
+        }
+
+        .total-geral {
+            background-color: #F4A460;
+            font-weight: bold;
+        }
